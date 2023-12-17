@@ -18,11 +18,12 @@ const Home = () => {
                         die eine Ausbildung in Informatik und Betriebswirtschaftslehre kombiniert.
                     </p>
                     <p className="text-gray-500 py-2 text-xl">
-                    Ich beherrsche Microsoft Office, sowie die Programmiersprachen
-                        C#, C und Javascript.
+                    Ich beherrsche die Programmiersprachen
+                        C#, C, Java, JavaScript und TypeScript.
+                    Auch mit SQL konnte ich bereits Erfahrung sammeln.
                     </p>
                     <p className="text-gray-500 py-2 text-xl">Außerdem habe ich gute Kenntnisse mit Webtechnologien 
-                        und konnte mit Mitschülern auch schon ein Projekt umsetzen.</p>
+                        und konnte mit Mitschülern auch schon ein Projekt umsetzen, bei dem wir Markdown Code von PlantUML Klassendiagrammen zu fertigem Code in Java und C# umwandelten.</p>
                     <p className="text-gray-500 py-2 text-xl">Zudem spiele ich Fußball im Verein und liebe es mich sportlich zu betätigen.</p>
 
                 </div>

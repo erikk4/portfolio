@@ -9,6 +9,8 @@ import reactImage from "../assets/react.png"
 import tailwind from "../assets/tailwind.png"
 import unity from "../assets/unity.png"
 import github from "../assets/github.png"
+import java from "../assets/java.png"
+import typescript from "../assets/typescript.png"
 
 const Kenntnisse = () => {
 
@@ -33,46 +35,58 @@ const Kenntnisse = () => {
     },
     {
       id: 4,
+      src: typescript,
+      title: 'TypeScript',
+      style: 'shadow-blue-400'
+    },
+    {
+      id: 5,
       src: reactImage,
       title: 'React',
       style: 'shadow-sky-500'
     },
     {
-      id: 5,
+      id: 6,
       src: tailwind,
       title: 'Tailwind',
       style: 'shadow-sky-400'
     },
     {
-      id: 6,
+      id: 7,
       src: bootstrap,
       title: 'Bootstrap',
       style: 'shadow-purple-400'
     },
     {
-      id: 7,
+      id: 8,
       src: cImage,
       title: 'C',
       style: 'shadow-blue-500'
     },
     {
-      id: 8,
+      id: 9,
       src: csharp,
       title: 'C#',
       style: 'shadow-purple-500'
     },
     {
-      id: 9,
+      id: 10,
+      src: java,
+      title: 'Java',
+      style: 'shadow-red-500'
+    },
+    {
+      id: 11,
       src: github,
       title: 'GitHub',
       style: 'shadow-gray-400'
     },
     {
-      id: 10,
+      id: 12,
       src: unity,
       title: 'Unity',
       style: 'shadow-gray-500'
-    },
+    }
 
   ]
 
